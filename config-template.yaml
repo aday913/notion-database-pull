@@ -1,5 +1,6 @@
 api_key: {insert_api_key_here}
-{insert_name_here}:
-  id: {insert_id_here}
-  name: {insert_name_here}
-  output_path: {insert_output_path_here}
+databases:
+  - {insert_name_here}:
+      id: {insert_id_here}
+      name: {insert_name_here}
+      output_path: {insert_output_path_here}
